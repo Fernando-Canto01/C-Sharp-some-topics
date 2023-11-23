@@ -1,0 +1,14 @@
+/home/fernando/Desktop/Event_2/Event_2/obj/Debug/net8.0/Event_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Desktop/Event_2/Event_2/obj/Debug/net8.0/Event_2.AssemblyInfoInputs.cache
+/home/fernando/Desktop/Event_2/Event_2/obj/Debug/net8.0/Event_2.AssemblyInfo.cs
+/home/fernando/Desktop/Event_2/Event_2/obj/Debug/net8.0/Event_2.csproj.CoreCompileInputs.cache
+/home/fernando/Desktop/Event_2/Event_2/bin/Debug/net8.0/Event_2
+/home/fernando/Desktop/Event_2/Event_2/bin/Debug/net8.0/Event_2.deps.json
+/home/fernando/Desktop/Event_2/Event_2/bin/Debug/net8.0/Event_2.runtimeconfig.json
+/home/fernando/Desktop/Event_2/Event_2/bin/Debug/net8.0/Event_2.dll
+/home/fernando/Desktop/Event_2/Event_2/bin/Debug/net8.0/Event_2.pdb
+/home/fernando/Desktop/Event_2/Event_2/obj/Debug/net8.0/Event_2.dll
+/home/fernando/Desktop/Event_2/Event_2/obj/Debug/net8.0/refint/Event_2.dll
+/home/fernando/Desktop/Event_2/Event_2/obj/Debug/net8.0/Event_2.pdb
+/home/fernando/Desktop/Event_2/Event_2/obj/Debug/net8.0/Event_2.genruntimeconfig.cache
+/home/fernando/Desktop/Event_2/Event_2/obj/Debug/net8.0/ref/Event_2.dll
